@@ -9,7 +9,7 @@ coursera test repository
 ## Module #3 Coding Assignment Solution
   code url: https://github.com/Subhadip-Layek/coursera.webdev.proect/tree/859afbc814e529fc013e17e8d7a4766ee6b699a5/Module%203%20-%20Solution
   
-  Hosted url: 
+  Hosted url: https://subhadip-layek.github.io/coursera.webdev.proect/Module%203%20-%20Solution/index%20(2).html
 ## Module #4 Coding Assignment Solution
   code url: 
   Hosted url: 
