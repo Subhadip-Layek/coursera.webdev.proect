@@ -16,5 +16,6 @@ coursera test repository
   Hosted url: https://subhadip-layek.github.io/coursera.webdev.proect/Module%204%20-%20Solution/
 
 ## Module #5 Coding Assignment Solution
-  code url: 
+  code url: https://github.com/Subhadip-Layek/coursera.webdev.proect/tree/4195459b453c7d6273bef7fe803d8772b242407e/Module%205%20-%20Solution
+  
    Hosted url: 
