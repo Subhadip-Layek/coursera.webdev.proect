@@ -11,8 +11,9 @@ coursera test repository
   
   Hosted url: https://subhadip-layek.github.io/coursera.webdev.proect/Module%203%20-%20Solution/index%20(2).html
 ## Module #4 Coding Assignment Solution
-  code url: 
-  Hosted url: 
+  code url: https://github.com/Subhadip-Layek/coursera.webdev.proect/blob/6555ade3171b42cbac070305679dcb858c452071/Module%204%20-%20Solution/
+  
+  Hosted url: https://subhadip-layek.github.io/coursera.webdev.proect/Module%204%20-%20Solution/
 
 ## Module #5 Coding Assignment Solution
   code url: 
